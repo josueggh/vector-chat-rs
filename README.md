@@ -1,6 +1,8 @@
-# Vector Chat - Rust Version
+# Vector Chat - Rust
 
 [![Rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust)](https://www.rust-lang.org)
+[![Build Status](https://github.com/josueggh/vector-chat-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/josueggh/vector-chat-rs/actions/workflows/rust.yml)
+
 
 A Rust implementation of a semantic search and AI-powered chat system using OpenAI embeddings and Qdrant vector
 database.
